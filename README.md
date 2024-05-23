@@ -1,0 +1,2 @@
+# AgroMitra
+Crop Disease Detection
